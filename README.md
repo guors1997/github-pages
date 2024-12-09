@@ -1,4 +1,4 @@
-<header>
+<Rongsheng Guo>
 
 <!--
   <<< Author notes: Course header >>>
